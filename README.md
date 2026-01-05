@@ -27,7 +27,7 @@ pip install pygame
 3. Download the repository and ensure the following folder structure:
 
 ```
-NeonSnakeGame/
+Snake Game/
 ├── snake_game.py
 ├── highscore.txt        # will be auto-created
 └── Sound Effects/
