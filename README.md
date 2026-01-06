@@ -59,13 +59,13 @@ python snake_game.py
 - Avoid colliding with walls or yourself!
 
 ## 📊 Level Progression
-| Level | Color | Screen Size | Obstacle Layout |
-| :--- | :--- | :--- | :--- |
-| 1 | Blue | 400x400 | Open Field |
-| 2 | Green | 500x500 | Corner Pillars |
-| 3 | Purple | 600x600 | Horizontal Bars |
-| 4 | Orange | 700x700 | The Box |
-| 5 | Gold | 900x900 | **The Maze** |
+| Level | Snake Color | Grid Zoom | Obstacles |
+| :---: | :--- | :--- | :--- |
+| 1 | 🔵 Neon Blue | 200x200 | None (Training) |
+| 2 | 🟢 Neon Green | 300x300 | 4 Pillars |
+| 3 | 🟣 Purple | 400x400 | Dual Bars |
+| 4 | 🟠 Orange | 500x500 | Center Box |
+| 5 | 🟡 Gold | 600x600 | **Final Maze** |
 
 ## 🤝 Contributing
 
