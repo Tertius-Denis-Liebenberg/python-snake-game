@@ -10,7 +10,7 @@ A futuristic, neon-themed Snake game built with **Python** and **Pygame**. Featu
   - 🟣 **Level 3**: Purple
   - 🟠 **Level 4**: Orange
   - 🟡 **Level 5**: Gold
-- **Dynamic Screen Scaling**: The game physically resizes and "zooms out" as you level up, expanding the world from a small 200x200 grid to a massive 600x600 arena.
+- **Dynamic Screen Scaling**: The game physically resizes and "zooms out" as you level up, expanding the world from a small 400x400 grid to a massive 800x800 arena.
 - **Fill-to-Progress Mechanic**: Unlike traditional snake games, you only advance to the next level once you have "filled" the available screen space.
 - **Custom Obstacles & Mazes**: Each level introduces new wall layouts, moving from an open field to pillars, bars, and finally a complex maze.
 - **Transparent HUD**: A sleek, semi-transparent top-bar displays your level, total score, and a real-time **Percentage Filled** counter (accurate to 2 decimal places).
@@ -61,11 +61,11 @@ python snake_game.py
 ## 📊 Level Progression
 | Level | Snake Color | Grid Zoom | Obstacles |
 | :---: | :--- | :--- | :--- |
-| 1 | 🔵 Neon Blue | 200x200 | None (Training) |
-| 2 | 🟢 Neon Green | 300x300 | 4 Pillars |
-| 3 | 🟣 Purple | 400x400 | Dual Bars |
-| 4 | 🟠 Orange | 500x500 | Center Box |
-| 5 | 🟡 Gold | 600x600 | **Final Maze** |
+| 1 | 🔵 Neon Blue | 400x400 | None (Training) |
+| 2 | 🟢 Neon Green | 500x500 | 4 Pillars |
+| 3 | 🟣 Purple | 600x600 | Dual Bars |
+| 4 | 🟠 Orange | 700x700 | Center Box |
+| 5 | 🟡 Gold | 800x800 | **Final Maze** |
 
 ## 🤝 Contributing
 
